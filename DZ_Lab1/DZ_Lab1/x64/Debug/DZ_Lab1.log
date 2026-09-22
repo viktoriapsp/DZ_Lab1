@@ -1,0 +1,5 @@
+﻿  mashina.c
+C:\Users\vixqb\source\repos\viktoriapsp\DZ_Lab1\mashina.c(7,2): warning C4013: mashina: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\vixqb\source\repos\viktoriapsp\DZ_Lab1\mashina.c(20,7): warning C4129: "-": нераспознанная escape-последовательность символов
+C:\Users\vixqb\source\repos\viktoriapsp\DZ_Lab1\mashina.c(23,1): warning C4716: mashina: должна возвращать значение
+  DZ_Lab1.vcxproj -> C:\Users\vixqb\source\repos\viktoriapsp\DZ_Lab1\x64\Debug\DZ_Lab1.exe
